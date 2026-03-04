@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Aman Pandey
 
-<!--
-**Aman-Pandey-13/Aman-Pandey-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack MERN Developer  
+🚀 Passionate about building real-world web applications  
+📚 Currently improving Data Structures & Algorithms in Java  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+Frontend:
+- React.js
+- HTML
+- CSS
+- Bootstrap
+
+Backend:
+- Node.js
+- Express.js
+- PHP
+
+Database:
+- MongoDB
+- MySQL
+
+Languages:
+- Java
+- JavaScript
+
+Tools:
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🏝 Wanderlust – Villa Booking Platform
+Full-stack MERN application where users can book villas and customize events like birthday parties, anniversaries, and special occasions.
+
+### 🏛 Museum Management System
+A PHP + MySQL based system for museum slot booking and management.
+
+### 🚨 Women Safety Alert App
+Android application that sends emergency alerts with OTP verification and assistance features.
+
+---
+
+## 📊 GitHub Stats
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Pandey-13&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Pandey-13&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/aman-pandey-6395b53a6  
+Email: pandeyaman995@gmail.com
