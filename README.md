@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student (Semester 5)
+- 🎓 Computer Engineering Student (Semester 7)
 - 💻 MERN Stack Developer (Apna College Certified)
 - 🧠 Learning **Data Structures & Algorithms in Java**
 - 🚀 Interested in **Full Stack Development & Scalable Web Apps**
